@@ -1,11 +1,11 @@
-package ru.vood.kotlinormexample
+package ru.vood.kotlinormexamplemaven
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class KotlinOrmExampleApplication
+class KotlinOrmExampleMavenApplication
 
 fun main(args: Array<String>) {
-    runApplication<KotlinOrmExampleApplication>(*args)
+    runApplication<KotlinOrmExampleMavenApplication>(*args)
 }

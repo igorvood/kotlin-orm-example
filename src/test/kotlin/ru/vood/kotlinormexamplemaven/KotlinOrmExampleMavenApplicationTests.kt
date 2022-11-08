@@ -1,10 +1,10 @@
-package ru.vood.kotlinormexample
+package ru.vood.kotlinormexamplemaven
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class KotlinOrmExampleApplicationTests {
+class KotlinOrmExampleMavenApplicationTests {
 
     @Test
     fun contextLoads() {
