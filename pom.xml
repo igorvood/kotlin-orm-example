@@ -161,7 +161,7 @@
                     </jdbc>
                     <generator>
                         <database>
-                            <name>org.jooq.meta.oracle.OracleDatabase</name>
+<!--                            <name>org.jooq.meta.oracle.OracleDatabase</name>-->
                             <inputSchema>LOCALDEV</inputSchema>  <!-- схема -->
                         </database>
                         <target>
